@@ -7,5 +7,5 @@
 - 💬 Ask me about my cats!
 - 📫 How to reach me: rae.l.downen@gmail.com
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: Transitioning from librarian to data scientist
+- ⚡ Fun fact: Transitioning from librarian to data scientist.
 
